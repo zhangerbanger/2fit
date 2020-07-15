@@ -23,3 +23,7 @@ Here are some images of the finished app and its functionality.
 ![](/read_me_images/Chat.PNG)
 
 ![](/read_me_images/Calendar.PNG)
+
+#Progress
+
+Currently, 2fit is still in the development stage. After making a few more minor improvements to facilitate post uploads, we will start implementing the algorithm to pair up similar users.

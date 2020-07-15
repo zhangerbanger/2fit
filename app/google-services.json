@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510712970016",
+    "firebase_url": "https://fit-exercise-app.firebaseio.com",
+    "project_id": "fit-exercise-app",
+    "storage_bucket": "fit-exercise-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510712970016:android:f0d3fb9640fcaf06513545",
+        "android_client_info": {
+          "package_name": "com.example.a2fitexerciseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510712970016-pnlcoc32er43cnfgh4cc01bdctf8vv2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2fitexerciseapp",
+            "certificate_hash": "04207e9485365d7cefccd48e02ba373329e485c1"
+          }
+        },
+        {
+          "client_id": "510712970016-8rgcknmskjgg8d19o95h58o80qrcv7do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUjuXMbY6kz-9Pmz5HE4DdD-Wa6Swkz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510712970016-8rgcknmskjgg8d19o95h58o80qrcv7do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='2fit Exercise App'
+include ':app'

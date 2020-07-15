@@ -2,3 +2,20 @@
 
 2fit is an Android App, written in Java, that aims to help users find motivation for exercise by sharing their achievments with others. Users will also be able to contact other users with similar interests and demographics to meet up for exercise. The app utilizes a Firebase backend.
 
+# Interface
+
+Here are some images of the finished app and its functionality.
+
+![](/read_me_images/HomeScreen.PNG)
+
+![](/read_me_images/Dashboard.PNG)
+
+![](/read_me_images/Profile.PNG)
+
+![](/read_me_images/Preferences.PNG)
+
+![](/read_me_images/Message.PNG)
+
+![](/read_me_images/Chat.PNG)
+
+![](/read_me_images/Calendar.PNG)
